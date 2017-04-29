@@ -8,7 +8,7 @@
   Project       : Monakons Quadcopter
   File          : PS2X_QuadCpterController.ino
   Description   : This code implements PS2 controller functionallity
-  Author        : Monahopoulos Konstantinos
+  Author        : Monachopoulos Konstantinos
   ------------------------------------------------------------------------------------------------------------------------------------------
 
                 LOOKING AT THE PLUG
